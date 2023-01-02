@@ -1,5 +1,5 @@
 /* reset css */
-@import "./reset.css";
+@import url("./reset.css");
 
 
 :root {
